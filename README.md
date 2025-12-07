@@ -1,4 +1,4 @@
-# Prompt_strategies
+# Prompt Strategies
 
 
 # 🌟 **Experimental Evaluation of Yelp Star Prediction Methods**
